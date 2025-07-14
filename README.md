@@ -85,10 +85,6 @@ MacBookPro15,2
 
  - [x] Location Services
 
- 
-
-## Not Tested
-
  - [x] USB-C charging
 
  - [x] USB-C DP-alt Mode
@@ -97,7 +93,7 @@ MacBookPro15,2
 
 ## Optional Alternative
 
- - [x] Connecting to hidden SSD (use itlwm)
+ - [x] Connecting to hidden WiFi SSD (use itlwm)
 
  - [x] iMessage  (use itlwm)
  
@@ -108,9 +104,9 @@ MacBookPro15,2
 
 * If the installer stuck at the apple logo during installation with "0x0 is not a System or Data Volume", please include ApfsDriverLoader.efi into your drivers. Set min date -1 minversion -1. 
 
-* To turn off the show the desktop when clicking wallpaper, set "Click wallpaper to reveal desktop" to " Only in Stage Manager".
+* To turn off the show the desktop when clicking wallpaper, set "Click wallpaper to reveal desktop" to " Only in Stage Manager" in Desktop & Dock Settings.
 
-* If UI running a bit  sluggish, turn of widgets in "Desktop and Dock".
+* If UI running a bit  sluggish, turn of widgets in Desktop and Dock.
 
 * When using time machine to migrate your files from Ventura to Sonoma, don't forget to check the storage if the backup is not deleted after migration to save space.
 
