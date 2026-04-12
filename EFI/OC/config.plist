@@ -1002,26 +1002,6 @@
 		<dict>
 			<key>AdviseFeatures</key>
 			<false/>
-			<key>MLB</key>
-			<string>C02002405QXJH4RJC</string>
-			<key>MaxBIOSVersion</key>
-			<false/>
-			<key>ProcessorType</key>
-			<integer>0</integer>
-			<key>ROM</key>
-			<data>
-			ACJBjagF
-			</data>
-			<key>SpoofVendor</key>
-			<true/>
-			<key>SystemMemoryStatus</key>
-			<string>Auto</string>
-			<key>SystemProductName</key>
-			<string>MacBookPro15,2</string>
-			<key>SystemSerialNumber</key>
-			<string>C02C3WYDJHCC</string>
-			<key>SystemUUID</key>
-			<string>98369A6A-0BC1-48F8-B67D-5F8E0004553E</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
